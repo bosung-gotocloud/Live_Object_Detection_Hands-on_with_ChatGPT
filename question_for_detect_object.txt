@@ -1,0 +1,7 @@
+python code to detect objects in a video file that "detect_objects_in_video.py video.mp4 confidence"
+1. read video file name and confidence as parameters
+2. read video file and extract each frame as image
+3. detect objects in image and draw boxes and confidence around detected objects
+4. show each rame using  opencv
+5. write result video file as videofilename-res.mp4
+6. use opencv object detection
